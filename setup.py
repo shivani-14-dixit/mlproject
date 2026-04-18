@@ -6,6 +6,6 @@ setup(
     author= 'Shivani',
     author_email='shivanidixit84@gmail.com',
     packages='find_packages',
-    install_requires= get_requirements('requirements.txt')
+    
     
 )
